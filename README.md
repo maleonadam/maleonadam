@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @maleonadam
-- 👀 I’m interested in software development and information security
-- 🌱 I’m currently learning information security
-- 💞️ I’m looking to collaborate on development projects using ReactJs and Php
+- 👋 Hi, I’m Maleon Adam
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Information Security
+- 💞️ I’m looking to collaborate on development projects using JavaScript and PHP
 - 📫 How to reach me maleonadam@gmail.com
 
 <!---
